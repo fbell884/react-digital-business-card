@@ -1,0 +1,7 @@
+body {
+    background-color: #23252C;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+.about {
+    margin: 1rem 1.75rem;
+}
+
+.about > h2 {
+    color: #F5F5F5;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.about > p {
+    color: #DCDCDC;
+    font-size: 0.675rem;
+    margin-bottom: 1rem;
+}

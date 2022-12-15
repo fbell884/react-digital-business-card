@@ -7,8 +7,8 @@ import "./componentCSS/Info.css";
 
 export default function Info() {
     return (
-        <section role="personalInfo" className="info">
-            <img className="headshot" src={headshot}/>
+        <section className="info">
+            <img className="headshot" src={headshot} alt="headshot of francis bell"/>
             <h1>Francis W. Bell</h1>
             <p className="subheading">Web Developer</p>
             <p className="github-url"><a href="https://github.com/fbell884">https://github.com/fbell884</a></p>
